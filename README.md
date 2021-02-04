@@ -1,2 +1,5 @@
-# uyfonts
-there are UKIJ and Uighursoft fonts
+# UKIJ Fontlitini Ishliting
+
+https://github.com/ukij/fonts-for-uyghur-arabic-script
+
+Bu yerdiki fontlarda mesile barken. 
